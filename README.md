@@ -1,8 +1,9 @@
 # bankaccount
 # Bank Account in Python from Computer Science 235
 
+
+
 class savings():
-    """Mimics a bank's saving account"""
     def __init__(self,Deposit, Pin):
         self.balance = Deposit
         self.pin = Pin
